@@ -4,7 +4,7 @@
 - [Program](./computer/program.md)
 - [Process](./computer/process.md)
 - [Thread](./computer/thread.md)
-- [OSI 5계층]
+- [OSI 5계층](./computer/osi.md)
   - [TCP/IP]
   - [UDP]
   
@@ -31,9 +31,9 @@
 - [스프링부트](./backend/SpringBoot.md)
 - [API서버](./backend/APIServer.md)
 - [Rest API](./backend/restAPI.md)
-- [Dispatcher Servlet]
+- [Dispatcher Servlet](./backend/dispatcherServlet.md)
 - [http / https]
-- 
+- IoC
 
 ## 데이터베이스
   - [RDB](./DataBase/RDB.md)
