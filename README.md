@@ -4,6 +4,10 @@
 - [Program](./computer/program.md)
 - [Process](./computer/process.md)
 - [Thread](./computer/thread.md)
+- [OSI 5계층]
+  - [TCP/IP]
+  - [UDP]
+  
 
 ## 개념
 - [순차지향](./concept/SequentialOridentedProgramming.md)
@@ -14,6 +18,12 @@
 - [PM / VM](./concept/pmvm.md)
 - [Container](./concept/container.md)
   - [Docker](./concept/docker.md)
+- [트랜잭션](./concept/Transaction.md)
+  - [ACID](./concept/ACID.md)
+- [deadlock]
+- [이중화]
+  - [고가용성]
+- [active standby]
 
 ## 백엔드
 - [POJO](./backend/pojo.md)
@@ -21,6 +31,9 @@
 - [스프링부트](./backend/SpringBoot.md)
 - [API서버](./backend/APIServer.md)
 - [Rest API](./backend/restAPI.md)
+- [Dispatcher Servlet]
+- [http / https]
+- 
 
 ## 데이터베이스
   - [RDB](./DataBase/RDB.md)
