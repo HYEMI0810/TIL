@@ -5,8 +5,8 @@
 - [Process](./computer/process.md)
 - [Thread](./computer/thread.md)
 - [OSI 5계층](./computer/osi.md)
-  - [TCP/IP]
-  - [UDP]
+  - [TCP/IP](./computer/tcpip.md)
+  - [UDP](./computer/udp.md)
   
 
 ## 개념
@@ -26,15 +26,16 @@
 - [active standby]
 
 ## 백엔드
+- [JSP](./backend/jsp.md)
 - [POJO](./backend/pojo.md)
 - [스프링프레임워크](./backend/SpringFramework.md)
+- [DI](./backend/di.md)
 - [스프링부트](./backend/SpringBoot.md)
 - [API서버](./backend/APIServer.md)
 - [Rest API](./backend/restAPI.md)
 - [Dispatcher Servlet](./backend/dispatcherServlet.md)
-- [http / https]
-- IoC
-
+- [http / https](./backend/http.md)
+- [IoC](./backend/ioc.md)
 ## 데이터베이스
   - [RDB](./DataBase/RDB.md)
 
@@ -43,6 +44,14 @@
   - [CGI](./Web/CGI.md)
   - [WAS](./Web/WAS.md)
   - [Servlet](./Web/servlet.md)
+
+## 기본
+  - [클래스]
+  - [클래스와객체의 차이]
+  - [call by value / call by reference]
+  - [collection]
+  - [list vs array]
+
 
 ## 개발이슈
 - [자바1.8이슈](./Issue/java.md)
